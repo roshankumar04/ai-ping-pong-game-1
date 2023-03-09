@@ -1,0 +1,40 @@
+body
+{
+    width: 100%;
+    color: white;
+    background-size: cover;
+}
+.heading h3{
+    display: inline;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+h4{
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog{
+    width: 90%;
+}
+#restart{
+    background-color: blue;
+    font-size: medium;
+}
+.footer{
+    box-shadow: 5px 5px 5px gray;
+    width: 10px;
+    height: 5px;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    font-weight: bold;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 160px;
+}
